@@ -1,6 +1,6 @@
 # FileOrganizer
 
-This program will organize you files into different folders. 
+This program will organize your files into separate folders. 
 
 ## Compile 
 
